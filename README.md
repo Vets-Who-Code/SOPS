@@ -1,7 +1,7 @@
 # Vets Who Code Standard Operating Procedures
-A mem,ber of Vets Who Code...
+As a member of Vets Who Code...
 
-Has responsibilities to the community – mentor, coach, and lead.
+Has responsibilities to the community –learn, mentor, coach, and lead.
 Knows the SOPs. Follows them. Fixes them if it is broken. If they find better SOPa, they copy it. If somebody could use our SOPs, give it to them.
 Leads by example. Models the behaviors we desire both interpersonally and technically.
 Strives to understand how their work fits into a broader context and ensures the outcome.
@@ -26,14 +26,14 @@ As a distributed team take time to share context via wiki, teams and backlog ite
 Make the simple thing work now. Build fewer features today, but ensure they work amazingly. Then add more features tomorrow.
 Avoid adding scope to a backlog item, instead add a new backlog item.
 Our goal is to ship incremental customer value.
-Keep backlog item details up to date to communicate the state of things with the rest of your team.
+Keep backlog item details up to date to communicate the state of things with the rest of the team.
 Report product issues found and provide clear and repeatable engineering feedback!
 We all own our code and each one of us has an obligation to make all parts of the solution great.
 
 ## QuickLinks
 Engineering Fundamentals Checklist
 Structure of a Sprint
-## Engineering Fundamentals
+## Engineering Fundamentals Of Vets Who Code
 Accessibility
 Agile Development
 Automated Testing
@@ -54,3 +54,12 @@ Machine Learning Fundamentals
 User-Interface Engineering
 Product Management
 Data Engineering
+
+## Joining Vets Who Code
+## Volunteering At Vets Who Code
+
+## Mentoring at Vets Who Code
+
+## Onboarding At Vets Who Code
+
+## Learning At Vets Who Code
